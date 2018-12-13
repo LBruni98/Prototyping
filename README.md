@@ -67,12 +67,19 @@ UXPin is an app that utilises the features of other prototyping software such as
 These prototypes can be created in software engines, such as Unity, to best capture the feel of how the product will function or even look. With this, the prototypes can be modified or re used with incorporation of pre-existing or previous elements, as well as making the development for the final product easier to picture as the features and functions are all demonstrated in the final prototype[6].
 
 ## 3. End User Modelling
+### 3.1.1 Function
+The idea here basically takes organizes the users that understand the system, meaning those that would instinctively know their way around the system. This would fall under the developer’s point of view when developing said program, which could mean those who use certain features for one reason or those who would fully utilize all the features. For instance, a racing game with many features; those who would just like a quick single player game and those who would take advantage of features like tuning the cars or going online.
+
+### 3.1.2 Role
+End users via role can help with understanding the program’s audience. The roles of the user can vary but mainly are separated via distinct groups, such as users that would get engaged with the software or viewers who would want entertainment, etc. meaning that roles could prioritize different elements rather than what the developer was originally aiming for.
+
+### 3.1.3 Knowlegde/Experience
+This would model a prototype based on the users that would have prior knowledge or experience in the system that you would be developing for. This would show various points of design that would cater to that of users that understand what the program is straight away. An example would be developing a first person shooter game, designed for players that have had experience with the features and the type of gameplay that is common in this sort of genre[8].
 
 ## 4. Types of End Users
 An end user is a person that the software application or hardware are being developed for. They are essentially equivalent to that of the actual customer and are mainly involved at the end of the project, hence the term “end user”[7].
 
-There are diverse types of end users and as such it is imperative that specific prototyping methodologies match that of the end user to help with testing.
-
+There are different types of end users and as such it is imperative that specific prototyping methodologies match that of the end user to help with testing.
 
 
 ### References
@@ -83,3 +90,4 @@ There are diverse types of end users and as such it is imperative that specific 
 5. Thomas Peham (2015). 5 Types Of User Acceptance Testing. [online]. Usersnap. Available from: <https://usersnap.com/blog/types-user-acceptance-tests-frameworks/>. [Accessed 7 October 2018].
 6. Javier Cuello (2016). How To Choose The Right Prototyping Tool. [online]. Smashing Magazine. Available from: <https://www.smashingmagazine.com/2016/09/choosing-the-right-prototyping-tool/>. [Accessed 7 October 2018].
 7. Tech Terms [online]. (2007). Available from: <https://techterms.com/definition/enduser>. [Accessed 13 December 2018].
+8. Philosophe [online]. (2009). Available from: <https://philosophe.com/understanding_users/categorizing_users/>. [Accessed 13 December 2018].
