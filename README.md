@@ -20,12 +20,12 @@ A Horizontal Prototype is a prototype used for showing off a diverse range of fe
 A Vertical Prototype is used only for certain, smaller features that will be used in a system, showcased near-completed.
 
 ##### 1.1.6 Functional Storyboarding
-A storyboard is used to create an early layout of the product, mainly before the development of the system. This describes the product like a story and presents the information in a readable and more understandable way to that of the development team.
+A storyboard is used to create an early layout of the product, mainly before the development of the system. This describes the product like a story and presents the information in a readable and more understandable way to that of the development team[2][3].
 
 ### 1.2 End User Testing
 End User Testing or User Acceptance testing is a phase during the testing of a product where users have a hand in testing the product to help stand up to actual scenarios that the product might face. This testing is crucial before the whole product goes on the market. It is essentially a “real-world” test where the user interacts with the system as normal, investigating the features and find out if there isn’t anything overlooked, left out, understood poorly and such.
 
-The objective of End User Testing is for the product to be able to work alongside day to day life along with regular use, to ensure that the system is up to the business needs.
+The objective of End User Testing is for the product to be able to work alongside day to day life along with regular use, to ensure that the system is up to the business needs[4].
 
 ##### 1.2.1 Alpha and Beta Testing
 Alpha testing is done normally by the developers during the project’s development, carried out to recognize the bugs and current issues in the system before the initial product is moved out. This type of testing is carried out fairly early in the products lifecycle, near the end of development and before beta testing is carried out. Once the feedback from this testing has been reported, the developers can rework and improve the product for the next cycle or release.
@@ -44,7 +44,7 @@ Operation testing is mainly carried out to make sure that implement workflows to
 ##### 1.2.5 Black Box
 Black Box, though functional, can be perceived as end user as well, as these tests share the same properties as End User Testing. This testing is executed to analyse the functionalities of the product or system.
 
-The user doesn’t see the original source code but only the base product. Error reports are noted within the certain categories, outlining missing functions, errors and other issues, etc. This sort of testing is prominent within development because of the equivalents to End User Testing 
+The user doesn’t see the original source code but only the base product. Error reports are noted within the certain categories, outlining missing functions, errors and other issues, etc. This sort of testing is prominent within development because of the equivalents to End User Testing[5].
 
 ## 2. Tools in Prototyping
 Different tools can help create prototypes for distinct reasons and can convey what is needed to be presented to help generate an idea of the product through different means.
@@ -64,4 +64,21 @@ This sort of prototyping basically mimics the definitive version of the app in t
 
 UXPin is an app that utilises the features of other prototyping software such as Balsamiq and InVision, with the ability to create fully detailed prototypes and collaboration, but also allows for features such as code that best imitates how the product will function as well as incorporating different components pre-built or from the user themselves.
 
-These prototypes can be created in software engines, such as Unity, to best capture the feel of how the product will function or even look. With this, the prototypes can be modified or re used with incorporation of pre-existing or previous elements, as well as making the development for the final product easier to picture as the features and functions are all demonstrated in the final prototype.
+These prototypes can be created in software engines, such as Unity, to best capture the feel of how the product will function or even look. With this, the prototypes can be modified or re used with incorporation of pre-existing or previous elements, as well as making the development for the final product easier to picture as the features and functions are all demonstrated in the final prototype[6].
+
+## 3. End User Modelling
+
+## 4. Types of End Users
+An end user is a person that the software application or hardware are being developed for. They are essentially equivalent to that of the actual customer and are mainly involved at the end of the project, hence the term “end user”[7].
+
+There are different types of end users and as such it is imperative that specific prototyping methodologies match that of the end user to help with testing.
+
+
+### References
+1. Craig Borysowich (2011). Systems Design: Prototyping. [online]. Toolbox. Available from: <https://it.toolbox.com/blogs/craigborysowich/systems-design-prototyping-081811>. [Accessed 7 October 2018].
+2. Muthu Singaram, Prathistha Jain (2018). Types of Prototype and their Usage. [online]. Entrepreneur. Available from: <https://www.entrepreneur.com/article/308724>. [Accessed 7 October 2018].
+3. John Spacey (2016). 22 Types of Prototype. [online]. Simplicable. Available from: <https://simplicable.com/new/prototypes>. [Accessed 7 October 2018].
+4. Matthew Setter (2015). User Acceptance Testing – How To Do It Right!. [online]. Usersnap. Available from: <https://usersnap.com/blog/user-acceptance-testing-right/>. [Accessed 7 October 2018].
+5. Thomas Peham (2015). 5 Types Of User Acceptance Testing. [online]. Usersnap. Available from: <https://usersnap.com/blog/types-user-acceptance-tests-frameworks/>. [Accessed 7 October 2018].
+6. Javier Cuello (2016). How To Choose The Right Prototyping Tool. [online]. Smashing Magazine. Available from: <https://www.smashingmagazine.com/2016/09/choosing-the-right-prototyping-tool/>. [Accessed 7 October 2018].
+7. Tech Terms [online]. (2007). Available from: <https://techterms.com/definition/enduser>. [Accessed 13 December 2018].
