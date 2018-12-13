@@ -71,7 +71,8 @@ These prototypes can be created in software engines, such as Unity, to best capt
 ## 4. Types of End Users
 An end user is a person that the software application or hardware are being developed for. They are essentially equivalent to that of the actual customer and are mainly involved at the end of the project, hence the term “end user”[7].
 
-There are different types of end users and as such it is imperative that specific prototyping methodologies match that of the end user to help with testing.
+There are diverse types of end users and as such it is imperative that specific prototyping methodologies match that of the end user to help with testing.
+
 
 
 ### References
