@@ -73,14 +73,30 @@ The idea here basically takes organizes the users that understand the system, me
 ### 3.1.2 Role
 End users via role can help with understanding the program’s audience. The roles of the user can vary but mainly are separated via distinct groups, such as users that would get engaged with the software or viewers who would want entertainment, etc. meaning that roles could prioritize different elements rather than what the developer was originally aiming for.
 
-### 3.1.3 Knowlegde/Experience
-This would model a prototype based on the users that would have prior knowledge or experience in the system that you would be developing for. This would show various points of design that would cater to that of users that understand what the program is straight away. An example would be developing a first person shooter game, designed for players that have had experience with the features and the type of gameplay that is common in this sort of genre[8].
+### 3.1.3 Knowledge/Experience
+This would model a prototype based on the users that would have prior knowledge or experience in the system that you would be developing for. This would show various points of design that would cater to that of users that understand what the program is straight away. An example would be developing a first person shooter game, designed for players that have had experience with the features and the type of gameplay that is common in this sort of genre[7].
 
-## 4. Types of End Users
-An end user is a person that the software application or hardware are being developed for. They are essentially equivalent to that of the actual customer and are mainly involved at the end of the project, hence the term “end user”[7].
+## 3.2 Behavioural Models
+### 3.2.1 Use Case
+Use case modelling provides a visual representation of the program’s requirements. They define the interactions between that of the users and the system to define what the main goal of the program will be. In most cases, it describes what the user would do in terms of the interaction of the software. For instance, for a game, it would be the user’s actions such as play game, select level, configure options. With this they can identify what sort of users would be suitable for their program[8][9].
 
-There are different types of end users and as such it is imperative that specific prototyping methodologies match that of the end user to help with testing.
+### 3.2.2 Data Driven
+Data Driven models detail the sequence of actions, along with the response of the system to the input. Certain UML diagrams can be used to describe data flows, putting emphasis on the data given via an input by the user and can describe the basic processes of what the program does. The diagrams note both the function of the user as well as the admin or the system, detailing the data given based on the inputs of the user[10].
 
+## 4. Methodolgy relating to end users
+For this section I will use my project “Road Rage”, a single player project for a college course. Road Rage is a racing game, with features including multiple cars, a car customizer and different race modes.
+
+The target audience I am aiming to achieve here is that of people who enjoy racing games. This end user would fall under the group of what I expect; they would be avid players, meaning that they have had experience with other racing games as well as games in general and to further explain, they must know the fundamental features that makes up racing game. It should also be noted that this must extend to any other user that picks up the game, so if anyone was new to the genre, the game will be designed to make it easy to pick up, by adding features to help the user play the game.
+
+Now to fully test the prototype with this end user, there needs to be the appropriate methodology. Evolutionary prototyping would be more of a suitable method of prototyping with this user for testing. The requirements are best understood with evolutionary, so it should come easy to develop the first prototype. Elements of the incremental prototyping method are used here, such as the prototypes incrementing into the final model, but here they are refined until it is ready to make up the final product[11]. This method gets the user engaged properly, adding feedback to that model until it is to a met standard and carries on at each iteration until it looks like what the requirements said[12].
+
+## 5. Tools used for Prototyping
+#### 5.1 UXPin
+UXPin is a design platform, specializing in designing prototypes, documentation and design systems, mainly those for interfaces, mobile apps and web-based apps. It allows the user to create multiple prototypes all at once and collaborate with other team members to further develop and improve that prototype. It’s more in depth than just designing or establishing a layout, as the user can also have the software mimic the actions that they want it to do. For instance, play an animation when you mouse over a specific element and click to take the user to another part of the prototype. This additional level of detail can make for intricate prototypes where the developer can correctly capture what the final product should look like and feel like[13].
+
+#### 5.2 Balsamiq
+
+#### 5.3 Unreal Engine
 
 ### References
 1. Craig Borysowich (2011). Systems Design: Prototyping. [online]. Toolbox. Available from: <https://it.toolbox.com/blogs/craigborysowich/systems-design-prototyping-081811>. [Accessed 7 October 2018].
@@ -89,5 +105,11 @@ There are different types of end users and as such it is imperative that specifi
 4. Matthew Setter (2015). User Acceptance Testing – How To Do It Right!. [online]. Usersnap. Available from: <https://usersnap.com/blog/user-acceptance-testing-right/>. [Accessed 7 October 2018].
 5. Thomas Peham (2015). 5 Types Of User Acceptance Testing. [online]. Usersnap. Available from: <https://usersnap.com/blog/types-user-acceptance-tests-frameworks/>. [Accessed 7 October 2018].
 6. Javier Cuello (2016). How To Choose The Right Prototyping Tool. [online]. Smashing Magazine. Available from: <https://www.smashingmagazine.com/2016/09/choosing-the-right-prototyping-tool/>. [Accessed 7 October 2018].
-7. Tech Terms [online]. (2007). Available from: <https://techterms.com/definition/enduser>. [Accessed 13 December 2018].
-8. Philosophe [online]. (2009). Available from: <https://philosophe.com/understanding_users/categorizing_users/>. [Accessed 13 December 2018].
+7. Philosophe [online]. (2009). Available from: <https://philosophe.com/understanding_users/categorizing_users/>. [Accessed 13 December 2018].
+8. Radek Silhavy, Petr Silhavy, Zdenka Prokopová (2011). Behavioral modeling in system engineering. Tomas Bata University in Zlin. Available from: <https://www.researchgate.net/publication/228401777_Behavioral_modeling_in_system_engineering>. [Accessed 14 December 2018].
+9. Techopedia [online]. (2011). Available from: <https://www.techopedia.com/definition/25813/use-case>. [Accessed 14 December 2018].
+10. Behavior Models [online]. (n.d). Available from: <https://gyires.inf.unideb.hu/GyBITT/07/ch03s04.html>. [Accessed 14 December 2018].
+11. Sherrell L. (2013) Evolutionary Prototyping. In: Runehov A.L.C., Oviedo L. (eds) Encyclopedia of Sciences and Religions. Springer, Dordrecht. Available from: <https://link.springer.com/referenceworkentry/10.1007/978-1-4020-8265-8_201039>. [Accessed 14 December 2018].
+12. Teach-ICT [online]. (2011). Available from: <http://www.teach-ict.com/as_a2_ict_new/ocr/A2_G063/331_systems_cycle/prototyping_RAD/miniweb/pg3.htm>. [Accessed 14 December 2018].
+13. UXPin [online]. (2010). Available from: <https://www.uxpin.com/prototyping>. [Accessed 14 December 2018].
+14.
