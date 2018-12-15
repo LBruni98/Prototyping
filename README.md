@@ -110,7 +110,7 @@ As Unity is what I’m developing my game in, this prototype serves to show how 
 
 The following people that used this prototype are my brother and another class member. They were told to use both of the following control inputs, first the keyboard and then the controller, afterwards returning feedback. 
 
-|Users  |Results
+|Users  |Results|
 |-------|-------|
 |Dean   |The controller runs well. Where I point it, it goes to that direction on the screen. Keyboard works the same way but is smoother due to how the buttons are. The thing is, I would like to see the controller buttons being used in this sort of way too.|
 |Matthew|The demo does make use of the analogue function of the controller and details the movements being accurate to the controller’s inputs; it goes the direction where I point it and depending on the amount of input, it adjusts its speed to match. The keyboard is fluid too, as it functions like the controller but the input wasn't instantaneous rather than fluid. I would like to see this being applied to a scenario related to the game, a car being controlled around a track, so we can see if it works well.|
@@ -121,7 +121,28 @@ So far for improvement, the problem here that I gathered was that it needed to b
 
 Overall, the controller demo had been received positively, stating that the controller functions worked well. However, to fully take advantage of its use would extend its inputs to the buttons of the controller and to actually program it to apply to a car in terms of using the features in an actual game scenario.
 
-## 7. Interface Prototypes
+### 6.2 Interface Prototypes
+The next section of prototypes is for the game’s interface design. Included here are wireframes used to outline the layout of the menus and the HUD elements. These were all developed in the web-based wireframe designer program, Balsamiq, and were all made using the tools the program has given.
+
+The wireframe prototypes to Road Rage can be found [here.](https://github.com/LBruni98/Road-Rage/tree/master/Wireframes)
+
+The prototype’s first iterations were reviewed by the same people who reviewed the controller demo, and both gave their feedback.
+
+|Users  |Results|
+|-------|-------|
+|Dean   |The menus looked impressive, looking modern and neat. The elements were clear and easy to understand, being that the layout contributed to what part of the game it was meant for. Most of the menus are very good, but the individual aspects would be improved as they look a little basic and could use some additional visual features.|
+|Matthew|The menu layouts are well presented and would look good on the final game. It’s neat, well ordered and not confusing at all, should a new player try to get used to the game. The problem being the menu elements, being in some of the menus, they could be improved in order for users not to get lost each menu, such as links greyed out to show what the next page of a certain menu is. For more dynamic visual features, maybe the menu elements should have its position altered to visualise the dynamic interfaces.|
+
+The second iteration took credence to the feedback in relation of the menu element from both users and was applied to certain menus that related to the feedback, giving it more of an ordered and overall easier to navigate layout, whilst trying to keep to the original design.
+![Improvement 1](https://github.com/LBruni98/Road-Rage/blob/master/Wireframes/Settings%20Menu(Alternate%20790l).png)
+
+The title screen, which was planned to have a video and visual effects playing in the background, had the title moved so it wouldn’t obstruct the centre of the screen, so to imply what the layout was going to properly look like. Other elements of the wireframe prototypes also received this change in one way or another.
+![Improvement 2](https://github.com/LBruni98/Road-Rage/blob/master/Wireframes/Title_screen(Alternate%20807b).png)
+
+|Users  |Results|
+|-------|-------|
+|Dean   |The menus look nicer as the simple layout matches the original design and looks easier to navigate. It also shows the layout of upcoming dynamic effects that are planned to be used. I want to see this now applied to the other screens that the game will use, like the win screen and reward screen to see how they would look.|
+|Matthew|The clearer elements make for better understanding on what the look of the game achieves to be, with some elements that feature more dynamic or visual features altered to support them. The navigation on the menus look like they would be properly comprehended by all sorts of players, meaning that it would be easier to navigate from screen to screen. This should now have a design attached to show what this would look like if it were the final product.|
 
 ### References
 1. Craig Borysowich (2011). Systems Design: Prototyping. [online]. Toolbox. Available from: <https://it.toolbox.com/blogs/craigborysowich/systems-design-prototyping-081811>. [Accessed 7 October 2018].
