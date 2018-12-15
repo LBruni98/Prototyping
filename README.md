@@ -90,13 +90,21 @@ The target audience I am aiming to achieve here is that of people who enjoy raci
 
 Now to fully test the prototype with this end user, there needs to be the appropriate methodology. Evolutionary prototyping would be more of a suitable method of prototyping with this user for testing. The requirements are best understood with evolutionary, so it should come easy to develop the first prototype. Elements of the incremental prototyping method are used here, such as the prototypes incrementing into the final model, but here they are refined until it is ready to make up the final product[11]. This method gets the user engaged properly, adding feedback to that model until it is to a met standard and carries on at each iteration until it looks like what the requirements said[12].
 
-## 5. Tools used for Prototyping
+## 5. Common Tools used for Prototyping
 #### 5.1 UXPin
 UXPin is a design platform, specializing in designing prototypes, documentation and design systems, mainly those for interfaces, mobile apps and web-based apps. It allows the user to create multiple prototypes all at once and collaborate with other team members to further develop and improve that prototype. It’s more in depth than just designing or establishing a layout, as the user can also have the software mimic the actions that they want it to do. For instance, play an animation when you mouse over a specific element and click to take the user to another part of the prototype. This additional level of detail can make for intricate prototypes where the developer can correctly capture what the final product should look like and feel like[13].
 
 #### 5.2 Balsamiq
+Balsamiq is a wireframe prototyping interface builder application designed to create mock-ups and wireframe prototypes to help map out the basic layout of a program or interface. The features included in Balsamiq allow for advanced designing of applications, such as iterations and versions, allowing for different variants of specific designs for feedback and improvements, and collaboration, to create wireframes with other users involved in the project. Cloud based prototyping is also involved, allowing for the user to access their wireframes anywhere[14].
 
 #### 5.3 Unreal Engine
+Unreal Engine is a game engine used for a variety of reasons, such as games, product design or virtual reality. Currently, the engine is on its fourth iteration and focusing on realistic or heavily detailed visuals. The engine can be used for developing prototypes and can allow the user to quickly develop them thanks to the tools that unreal has, such as its blueprints function, focused on prototyping and allows users to quickly create the layout of the program or game without ever having to code. Many other features help develop more photorealistic and cinematic looking visuals to give the program a creative visual flair[15].
+
+## 6. Prototype Feedback
+### 6.1 Controller Demo
+The following prototype was a controller prototype designed for testing out the input that will be used in the final game alongside the keyboard. All the prototype consists is a square shape that can be moved around the canvas. The purpose behind the prototype is to test out the controller input and how well it moves around the screen, to tackle the movement early rather than later and to build the cars that will eventually be controlled in later prototypes and the final game.
+
+As Unity is what I’m developing my game in, this prototype serves to show how well unity can handle controller inputs, mainly the analogue features on the controllers. This prototype also utilises the keyboard movement as to show a “easing input” function, where the input is not instantly to 100% and gradually builds up. This feature will be used for an aspect in controlling the cars. 
 
 ### References
 1. Craig Borysowich (2011). Systems Design: Prototyping. [online]. Toolbox. Available from: <https://it.toolbox.com/blogs/craigborysowich/systems-design-prototyping-081811>. [Accessed 7 October 2018].
@@ -112,4 +120,6 @@ UXPin is a design platform, specializing in designing prototypes, documentation 
 11. Sherrell L. (2013) Evolutionary Prototyping. In: Runehov A.L.C., Oviedo L. (eds) Encyclopedia of Sciences and Religions. Springer, Dordrecht. Available from: <https://link.springer.com/referenceworkentry/10.1007/978-1-4020-8265-8_201039>. [Accessed 14 December 2018].
 12. Teach-ICT [online]. (2011). Available from: <http://www.teach-ict.com/as_a2_ict_new/ocr/A2_G063/331_systems_cycle/prototyping_RAD/miniweb/pg3.htm>. [Accessed 14 December 2018].
 13. UXPin [online]. (2010). Available from: <https://www.uxpin.com/prototyping>. [Accessed 14 December 2018].
-14.
+14. Balsamiq [online]. (2008). Available from: <https://balsamiq.com/>. [Accessed 15 December 2018].
+15. Unreal Engine [online]. (2017). Available from: <https://www.unrealengine.com/en-US/what-is-unreal-engine-4>. [Accessed 15 December 2018].
+
