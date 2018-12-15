@@ -134,9 +134,11 @@ The prototype’s first iterations were reviewed by the same people who reviewed
 |Matthew|The menu layouts are well presented and would look good on the final game. It’s neat, well ordered and not confusing at all, should a new player try to get used to the game. The problem being the menu elements, being in some of the menus, they could be improved in order for users not to get lost each menu, such as links greyed out to show what the next page of a certain menu is. For more dynamic visual features, maybe the menu elements should have its position altered to visualise the dynamic interfaces.|
 
 The second iteration took credence to the feedback in relation of the menu element from both users and was applied to certain menus that related to the feedback, giving it more of an ordered and overall easier to navigate layout, whilst trying to keep to the original design.
+
 ![Improvement 1](https://github.com/LBruni98/Road-Rage/blob/master/Wireframes/Settings%20Menu(Alternate%20790l).png)
 
 The title screen, which was planned to have a video and visual effects playing in the background, had the title moved so it wouldn’t obstruct the centre of the screen, so to imply what the layout was going to properly look like. Other elements of the wireframe prototypes also received this change in one way or another.
+
 ![Improvement 2](https://github.com/LBruni98/Road-Rage/blob/master/Wireframes/Title_screen(Alternate%20807b).png)
 
 |Users  |Results|
