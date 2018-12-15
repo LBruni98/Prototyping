@@ -104,7 +104,24 @@ Unreal Engine is a game engine used for a variety of reasons, such as games, pro
 ### 6.1 Controller Demo
 The following prototype was a controller prototype designed for testing out the input that will be used in the final game alongside the keyboard. All the prototype consists is a square shape that can be moved around the canvas. The purpose behind the prototype is to test out the controller input and how well it moves around the screen, to tackle the movement early rather than later and to build the cars that will eventually be controlled in later prototypes and the final game.
 
-As Unity is what I’m developing my game in, this prototype serves to show how well unity can handle controller inputs, mainly the analogue features on the controllers. This prototype also utilises the keyboard movement as to show a “easing input” function, where the input is not instantly to 100% and gradually builds up. This feature will be used for an aspect in controlling the cars. 
+As Unity is what I’m developing my game in, this prototype serves to show how well unity can handle controller inputs, mainly the analogue features on the controllers. This prototype also utilises the keyboard movement as to show a “easing input” function, where the input is not instantly to 100% and gradually builds up, offering smooth input on keyboards. This feature will be used for an aspect in controlling the cars. 
+
+![Controller Demo](https://github.com/LBruni98/Prototyping/blob/master/Controller%20Demo.PNG)
+
+The following people that used this prototype are my brother and another class member. They were told to use both of the following control inputs, first the keyboard and then the controller, afterwards returning feedback. 
+
+|Users  |Results
+|-------|-------|
+|Dean   |The controller runs well. Where I point it, it goes to that direction on the screen. Keyboard works the same way but is smoother due to how the buttons are. The thing is, I would like to see the controller buttons being used in this sort of way too.|
+|Matthew|The demo does make use of the analogue function of the controller and details the movements being accurate to the controller’s inputs; it goes the direction where I point it and depending on the amount of input, it adjusts its speed to match. The keyboard is fluid too, as it functions like the controller but the input wasn't instantaneous rather than fluid. I would like to see this being applied to a scenario related to the game, a car being controlled around a track, so we can see if it works well.|
+
+The feedback both states overall that the controller demo works to the requirements of what I was aiming for. Both users state the controller input was good, with the square going in the direction of where the user had pointed the analogue stick, with the other user reacting positively to the amount of input that can be acted on the analogue stick and applied to the square’s movement. The keyboard controls were also appraised well, stating that the easing function of the keyboard input was smooth and didn’t instantly put the input straight to 100%.
+
+So far for improvement, the problem here that I gathered was that it needed to be applied in a greater sense. The first user commented that the controller demo should be used to support the button presses mainly to see how well they act in the demo. The second user thinks that the controller demo should now be applied to an actual gameplay scenario, where it showcases how a car will behave with this controller input.
+
+Overall, the controller demo had been received positively, stating that the controller functions worked well. However, to fully take advantage of its use would extend its inputs to the buttons of the controller and to actually program it to apply to a car in terms of using the features in an actual game scenario.
+
+## 7. Interface Prototypes
 
 ### References
 1. Craig Borysowich (2011). Systems Design: Prototyping. [online]. Toolbox. Available from: <https://it.toolbox.com/blogs/craigborysowich/systems-design-prototyping-081811>. [Accessed 7 October 2018].
