@@ -46,6 +46,24 @@ Black Box, though functional, can be perceived as end user as well, as these tes
 
 The user doesn’t see the original source code but only the base product. Error reports are noted within the certain categories, outlining missing functions, errors and other issues, etc. This sort of testing is prominent within development because of the equivalents to End User Testing[5].
 
+### 1.3 Reviewing Prototyping forms
+##### 1.3.1 Wireframe Prototype
+Wireframes are considered to be low-fidelity mock-ups that’s purposes are to display the layout of an interface or webpage, giving the outline or conveying the direction and description of said interface or webpage. They aren’t really proper prototypes but rather a simple representation of what a system would look like, whereas prototypes would have more in terms of detail, content or even function to represent what the final product would look like[6].
+
+As such, they would only be okay for laying down the foundations of what the product would look like or its overall foundation, but shouldn’t be used for anything greater, such as the entire basis for the actual product. More medium to high fidelity prototypes should be used in terms of development, refinement and testing as well as design and function.
+
+##### 1.3.2 Feasibility Prototype
+A feasibility prototype is used to establish the feasibility of what’s being developed and to ensure that, the prototype must make sure that the product can work well to a purpose. The idea is show that the solution is capable of meeting the business needs[7].
+
+This form of prototyping is good if the product needs to showcase what and why it can be profitable. The prototype must perform good in multiple feasibility aspects, such as technical and financial and that way, it can assure to the client that the prototype would work as a business solution. This form of prototyping would be showing off that the product would prove as a good solution and if the client would want to change any aspect of it.
+
+##### 1.3.3 Horizontal Prototype
+The nature of the horizontal prototype is that the scope of the system is defined and gradually builds up detail over time. Functionality is not included in a horizontal prototype as the only main purpose in a horizontal prototype is to showcase the look and the feel of the system, viewing how the unique features fit together[9].
+
+These sorts of prototypes mainly focus on the visual aspect of the product, so it would be hard to test properly due to the lack of function. However, a horizontal prototype can serve as a basis on the look and feel, which gives a better understanding to the product, with how it should act and how it should look like.
+
+##### 1.3.4 Vertical Prototype
+
 ## 2. Tools in Prototyping
 Different tools can help create prototypes for distinct reasons and can convey what is needed to be presented to help generate an idea of the product through different means.
 
@@ -152,6 +170,10 @@ The title screen, which was planned to have a video and visual effects playing i
 3. John Spacey (2016). 22 Types of Prototype. [online]. Simplicable. Available from: <https://simplicable.com/new/prototypes>. [Accessed 7 October 2018].
 4. Matthew Setter (2015). User Acceptance Testing – How To Do It Right!. [online]. Usersnap. Available from: <https://usersnap.com/blog/user-acceptance-testing-right/>. [Accessed 7 October 2018].
 5. Thomas Peham (2015). 5 Types Of User Acceptance Testing. [online]. Usersnap. Available from: <https://usersnap.com/blog/types-user-acceptance-tests-frameworks/>. [Accessed 7 October 2018].
+Will Fanguy (2018). Wireframing vs. prototyping: What’s the difference?. [online]. Inside Design. Available from: <https://www.invisionapp.com/inside-design/wireframe-prototype-difference/>. [Accessed 17 December 2018].
+Craig Borysowich (2007). Prototyping: Types of Prototypes. [online]. Toolbox. Available from: <https://it.toolbox.com/blogs/craigborysowich/prototyping-types-of-prototypes-030607>. [Accessed 17 December 2018].
+Craig Borysowich (2007). Activities for Developing Horizontal. [online]. Toolbox. Available from: <https://it.toolbox.com/blogs/craigborysowich/activities-for-developing-horizontal-amp-vertical-prototypes-091208>. [Accessed 17 December 2018].
+
 6. Javier Cuello (2016). How To Choose The Right Prototyping Tool. [online]. Smashing Magazine. Available from: <https://www.smashingmagazine.com/2016/09/choosing-the-right-prototyping-tool/>. [Accessed 7 October 2018].
 7. Philosophe [online]. (2009). Available from: <https://philosophe.com/understanding_users/categorizing_users/>. [Accessed 13 December 2018].
 8. Radek Silhavy, Petr Silhavy, Zdenka Prokopová (2011). Behavioral modeling in system engineering. Tomas Bata University in Zlin. Available from: <https://www.researchgate.net/publication/228401777_Behavioral_modeling_in_system_engineering>. [Accessed 14 December 2018].
