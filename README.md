@@ -149,12 +149,20 @@ In terms of behaviour modelling, we would have to know about what the user would
 
 Now comes the point of what methodology would be necessary with both the end user and the behaviour modelling. Evolutionary prototyping would seem to be a fit for the elements above, where the prototype would be built first and the occurring feedback from the users would help refine it until it met the requirements properly. The end users would be ready to test the fundamental elements of the game to ensure it match their requirements and would be ready for the next iteration.
 
-## 4. Methodolgy relating to end users
+## 4. Methodology relating to end users
+### 4.1 Methodology
 For this section I will use my project “Road Rage”, a single player project for a college course. Road Rage is a racing game, with features including multiple cars, a car customizer and different race modes.
 
 The target audience I am aiming to achieve here is that of people who enjoy racing games. This end user would fall under the group of what I expect; they would be avid players, meaning that they have had experience with other racing games as well as games in general and to further explain, they must know the fundamental features that makes up racing game. It should also be noted that this must extend to any other user that picks up the game, so if anyone was new to the genre, the game will be designed to make it easy to pick up, by adding features to help the user play the game.
 
 Now to fully test the prototype with this end user, there needs to be the appropriate methodology. Evolutionary prototyping would be more of a suitable method of prototyping with this user for testing. The requirements are best understood with evolutionary, so it should come easy to develop the first prototype. Elements of the incremental prototyping method are used here, such as the prototypes incrementing into the final model, but here they are refined until it is ready to make up the final product[11]. This method gets the user engaged properly, adding feedback to that model until it is to a met standard and carries on at each iteration until it looks like what the requirements said[12].
+
+### 4.2 Methodolgy and Testing Plan
+Now that the methodology is chosen, it should be clear that a plan should be in place in terms of developing and testing. Evolutionary prototyping is going to be used for the development of the project and its prototypes. The idea here is to utilise the prototype for the development of the game, by implementing the features first and carefully building it up, with the feedback from the user and applying it to the prototype accordingly.
+The features of the prototypes will be carried out first in order to establish the feel of the game, such as the handling of the cars and the inputs, whereas such is the crucial aspect of the game. The game is going to be marketed as an arcade like game where the handling takes aspects from real life but altered to allow for fast driving and intense gameplay, which would work towards the casual users of the game as well as the more experienced ones.
+When the handling and over gameplay features are realised, then would be the time to develop the interface of the game. This being the menus, the GUI and other elements of the game. The interactions would be built of off this, making this crucial for the game and the requirements within the behaviour modelling. This would be realised until the next features of the game are developed and tested also.
+Then this would culminate into the final prototype, where the game is in a near complete state. The prototype would be sent off to the user where the final elements and the whole game would be tested until that can become the final game.
+
 
 ## 5. Common Tools used for Prototyping
 #### 5.1 UXPin
