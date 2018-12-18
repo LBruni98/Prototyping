@@ -58,11 +58,50 @@ A feasibility prototype is used to establish the feasibility of what’s being d
 This form of prototyping is good if the product needs to showcase what and why it can be profitable. The prototype must perform good in multiple feasibility aspects, such as technical and financial and that way, it can assure to the client that the prototype would work as a business solution. This form of prototyping would be showing off that the product would prove as a good solution and if the client would want to change any aspect of it.
 
 ##### 1.3.3 Horizontal Prototype
-The nature of the horizontal prototype is that the scope of the system is defined and gradually builds up detail over time. Functionality is not included in a horizontal prototype as the only main purpose in a horizontal prototype is to showcase the look and the feel of the system, viewing how the unique features fit together[9].
+The nature of the horizontal prototype is that the scope of the system is defined and gradually builds up detail over time. Functionality is not included in a horizontal prototype as the only main purpose in a horizontal prototype is to showcase the look and the feel of the system, viewing how the unique features fit together[8].
 
 These sorts of prototypes mainly focus on the visual aspect of the product, so it would be hard to test properly due to the lack of function. However, a horizontal prototype can serve as a basis on the look and feel, which gives a better understanding to the product, with how it should act and how it should look like.
 
 ##### 1.3.4 Vertical Prototype
+Vertical prototypes are used mainly with a technical sense behind them, but their purpose isn’t the entire system but rather a part of it. The system could be anything, but the features that are included and make up that little part of the system are built to a near-complete standard, these features being the ones up for implementation[9].
+
+The whole reason that the vertical prototype is used is to explain what a system does should a specific feature be poorly understood[9]. The level of functionality of this prototype makes it viable to a client should they not understand what a feature does in the prototype as well as to display the components at an early stage or show a working model, making this type prototype good for also showcasing progress as well as explaining the features in a system.
+
+##### 1.3.5 Functional Storyboarding
+A storyboard is considered a low fidelity prototype, like a wireframe and created with a paper or pen, but has been used as a medium fidelity prototype, using tools such as Adobe Illustrator or otherwise by giving them highly detailed illustrations. This means that the layout and design of a storyboard to represent a product can be versatile[10].
+
+Prototypes can be used in a variety of ways, to represent a scenario or to design the order of a function, which makes storyboards a widely used method in terms of laying out the basic properties of a product or solution.
+
+### 1.4 Benefits and Drawbacks of End User Testing
+##### 1.4.1 Alpha and Beta Testing
+The advantages of Beta testing are numerous and can overall ensure an excellent product should said testing be executed well. One such advantage is that its heavily customer based; the customer can test the product which can reduce the chances of product failure and the quality is improved from the customer’s experience. This in turn can create a friendly atmosphere with the customer, improving their experience and satisfaction.
+Another advantage is that the company can test the infrastructure post-launch for any bugs past the release and to improve the product[11].
+
+However, as testing is management and control heavy to get reliable results, control surrounding the process of Beta testing is up in the air. Other testing methods are usually done on controlled grounds where the testing can be easily organised, but Beta testing is done by actual people in the real world, meaning that there is minimal control.
+Beta testing is also a case of finding the right users for the job, where the users have to match the target audience to which the product is being developed and then it would be a matter if they are interested or not in participating[11].
+
+Alpha testing also has its share of advantages and more so because of how early on its testing is carried out. As testing is carried out so early, the foundations of the software are clear cut, showcasing the reliability of the functions and can help simulate the user behaviour and environment.
+Other advantages of Alpha testing are that bugs and serious issues are discovered early on, making the debugging process easier and with due respect to the design and functionality of the product[11]. 
+
+The main disadvantage is since the software is still under development, functionality can’t be tested, which can leave developers or testers unsatisfied with the results. This is in turn can lead to deviation of the software development, due to the testing data clashing with the client’s data[11].
+Although useful, alpha testing doesn’t ensure accurate, realistic results due to the environment the software is being tested in, meaning that all the real-world requirements can’t be met properly[12].
+
+##### 1.4.2 Contract and Regulation Testing
+Being part of End user acceptance testing, regulation and contract testing both need the product to adhere to set requirements. Within contract testing, the requirements are set out in the contract given specifying the cases within the period of the product going live. 
+
+In regulation testing, the product must adhere to the rules and regulations defined by a country.
+One advantage for both testing methods is that it can allow for any issues to be brought to light, highlighting the issues discovered and meaning they ca be fixed before launch. The key advantage in both contract and regulation is that they can be launched once that they have met their requirements. If the product was in contract testing, the requirements predefined means that the development team know what is wanted and can work towards it. In terms of regulation testing, if the product had met all the requirements and broke none of the rules, that product will be able to get released[13].
+
+If in regulation testing that any of the rules and regulations are violated, then the product doesn’t get released, wither resorting to altering it or the product becoming a failure[13]. Contract testing isn’t so straightforward, requiring effective communication when translating the tests but also in maintaining the contracts[14].
+
+##### 1.4.3 Operation Testing
+Operational testing can help mainly in terms of ensuring reliable and secure software and have many benefits. Feature interaction can ensure the features of a specific piece of software function clearly and in terms of delivering good user experience, the various aspects of the product are validated before release, that ensures the software working to the best of its abilities.
+Software security is taken into consideration with this testing method, by aiding in terms of serious issues that would spring to light with security, such as vulnerabilities in the software, backup and restoration, disaster recovery and maintenance[15].
+
+##### 1.4.4 Black Box
+With black box testing, there doesn’t need to be any technical knowhow or programming knowledge; the tester can just be any person. This means that it can aid in developing software more to aid in the product to be more user-friendly, based on what feedback the tester has given. There are no dependencies between the developer or the user, making the testing environment feel less restricted as if it were beta testing and this means that the testing can be completed once the product has been released.
+
+The disadvantages are however, that it is mostly limited in terms of resources and what testing allows; it only allows a certain amount of possible input through the testing phase and if the product has a strict deadline, it wouldn’t be enough to identify and test all the inputs. This sort of testing isn’t recommended if the application is complex and large, as the test coverage, as mentioned before, wouldn’t be fully tested and can leave numerous bugs from test cases[16].
 
 ## 2. Tools in Prototyping
 Different tools can help create prototypes for distinct reasons and can convey what is needed to be presented to help generate an idea of the product through different means.
@@ -100,6 +139,15 @@ Use case modelling provides a visual representation of the program’s requireme
 
 ### 3.2.2 Data Driven
 Data Driven models detail the sequence of actions, along with the response of the system to the input. Certain UML diagrams can be used to describe data flows, putting emphasis on the data given via an input by the user and can describe the basic processes of what the program does. The diagrams note both the function of the user as well as the admin or the system, detailing the data given based on the inputs of the user[10].
+
+## 3.3 Finding a Methodology for a Project
+In the case for my project, “Road Rage”, we would have to find the user that would be considered for the methodology, this way it can pave the way for any future test plans and lay down the requirements for developing the game.
+
+Before gathering the type of user, we would have to understand what the project is. It’s more along the lines to be a racing game with many features that allow for more than one racing type and customization options but can allow for a more relaxed playstyle for casual gamers, thanks to a quick play mode. The users that would be considered first would be more casual users, where they would understand the type of application and would be ready to use it, but haven’t gotten the experience, which would be understandable for the quick race mode of the game. The other users would be for more knowledgeable types, where they would’ve had previous experience in terms of a racing game or games in general and have the skills necessary with this type of application.
+
+In terms of behaviour modelling, we would have to know about what the user would do when playing the game. As stated before, the use case provides the visual representation of a programs requirements and in data driven cases, it details a sequence of actions along with the system’s response. In terms of our game, the behavioural model suitable would be a use case model, where the actions of the game would have to be noted to determine the main goal of the project.
+
+Now comes the point of what methodology would be necessary with both the end user and the behaviour modelling. Evolutionary prototyping would seem to be a fit for the elements above, where the prototype would be built first and the occurring feedback from the users would help refine it until it met the requirements properly. The end users would be ready to test the fundamental elements of the game to ensure it match their requirements and would be ready for the next iteration.
 
 ## 4. Methodolgy relating to end users
 For this section I will use my project “Road Rage”, a single player project for a college course. Road Rage is a racing game, with features including multiple cars, a car customizer and different race modes.
@@ -170,9 +218,17 @@ The title screen, which was planned to have a video and visual effects playing i
 3. John Spacey (2016). 22 Types of Prototype. [online]. Simplicable. Available from: <https://simplicable.com/new/prototypes>. [Accessed 7 October 2018].
 4. Matthew Setter (2015). User Acceptance Testing – How To Do It Right!. [online]. Usersnap. Available from: <https://usersnap.com/blog/user-acceptance-testing-right/>. [Accessed 7 October 2018].
 5. Thomas Peham (2015). 5 Types Of User Acceptance Testing. [online]. Usersnap. Available from: <https://usersnap.com/blog/types-user-acceptance-tests-frameworks/>. [Accessed 7 October 2018].
-Will Fanguy (2018). Wireframing vs. prototyping: What’s the difference?. [online]. Inside Design. Available from: <https://www.invisionapp.com/inside-design/wireframe-prototype-difference/>. [Accessed 17 December 2018].
-Craig Borysowich (2007). Prototyping: Types of Prototypes. [online]. Toolbox. Available from: <https://it.toolbox.com/blogs/craigborysowich/prototyping-types-of-prototypes-030607>. [Accessed 17 December 2018].
-Craig Borysowich (2007). Activities for Developing Horizontal. [online]. Toolbox. Available from: <https://it.toolbox.com/blogs/craigborysowich/activities-for-developing-horizontal-amp-vertical-prototypes-091208>. [Accessed 17 December 2018].
+6. Will Fanguy (2018). Wireframing vs. prototyping: What’s the difference?. [online]. Inside Design. Available from: <https://www.invisionapp.com/inside-design/wireframe-prototype-difference/>. [Accessed 17 December 2018].
+7. Craig Borysowich (2007). Prototyping: Types of Prototypes. [online]. Toolbox. Available from: <https://it.toolbox.com/blogs/craigborysowich/prototyping-types-of-prototypes-030607>. [Accessed 17 December 2018].
+8. Craig Borysowich (2007). Activities for Developing Horizontal. [online]. Toolbox. Available from: <https://it.toolbox.com/blogs/craigborysowich/activities-for-developing-horizontal-amp-vertical-prototypes-091208>. [Accessed 17 December 2018].
+9. Usability First [online]. (2010). Available from: <http://www.usabilityfirst.com/glossary/horizontal-and-vertical-prototypes/>. [Accessed 18 December 2018].
+10. Joel (2017). Storyboarding vs. Prototyping: When to Use Each. [online]. EnvatoTuts. Available from: <https://webdesign.tutsplus.com/articles/storyboarding-vs-prototyping-when-to-use-each--cms-28707>. [Accessed 18 December 2018].
+11. Guru99 [online]. (2013). Available from: <https://www.guru99.com/alpha-beta-testing-demystified.html>. [Accessed 18 December 2018].
+12. ProfessionalQA (2017). Storyboarding vs. Prototyping: When to Use Each. [online]. ProfessionalQA. Available from: <http://www.professionalqa.com/alpha-testing>. [Accessed 18 December 2018].
+13. Medium (2018). What is Acceptance Testing (A Complete Guide). [online]. Medium. Available from: <https://medium.com/typeforms-engineering-blog/contract-testing-i-e2e-testing-is-so-last-season-1142fa63c740>. [Accessed 18 December 2018].
+14. Daniel Giralt Len (2018). Contract Testing (I): E2E testing is SO last season. [online]. Medium. Available from: <https://medium.com/typeforms-engineering-blog/contract-testing-i-e2e-testing-is-so-last-season-1142fa63c740>. [Accessed 18 December 2018].
+15. ProfessionalQA (2018). Operational Acceptance Testing or Operational Testing. [online]. ProfessionalQA. Available from: <http://www.professionalqa.com/operational-testing>. [Accessed 18 December 2018].
+16. Helping Testers [online]. (2017). Available from: <http://www.helpingtesters.com/black-box-testing/>. [Accessed 18 December 2018].
 
 6. Javier Cuello (2016). How To Choose The Right Prototyping Tool. [online]. Smashing Magazine. Available from: <https://www.smashingmagazine.com/2016/09/choosing-the-right-prototyping-tool/>. [Accessed 7 October 2018].
 7. Philosophe [online]. (2009). Available from: <https://philosophe.com/understanding_users/categorizing_users/>. [Accessed 13 December 2018].
