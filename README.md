@@ -163,16 +163,31 @@ The features of the prototypes will be carried out first in order to establish t
 When the handling and over gameplay features are realised, then would be the time to develop the interface of the game. This being the menus, the GUI and other elements of the game. The interactions would be built of off this, making this crucial for the game and the requirements within the behaviour modelling. This would be realised until the next features of the game are developed and tested also.
 Then this would culminate into the final prototype, where the game is in a near complete state. The prototype would be sent off to the user where the final elements and the whole game would be tested until that can become the final game.
 
+While testing, each result from the iterations will be recorded into excel, into separate tables. The user will record the results from testing specific features as well as the type of testing that they will do. The reason behind choosing Excel is that it makes extracting the results easier, so when developing the next iteration or ready to improve the prototype, we would look over the tables given from the tester without any issue and can easily debug any issues.
+Each test will take place after the iterations of each prototype, meaning that we can further refine it during development until it’s ready to go into the stages of making the final release.
 
 ## 5. Common Tools used for Prototyping
-#### 5.1 UXPin
+### 5.1 Tools
+#### 5.1.1 UXPin
 UXPin is a design platform, specializing in designing prototypes, documentation and design systems, mainly those for interfaces, mobile apps and web-based apps. It allows the user to create multiple prototypes all at once and collaborate with other team members to further develop and improve that prototype. It’s more in depth than just designing or establishing a layout, as the user can also have the software mimic the actions that they want it to do. For instance, play an animation when you mouse over a specific element and click to take the user to another part of the prototype. This additional level of detail can make for intricate prototypes where the developer can correctly capture what the final product should look like and feel like[13].
 
-#### 5.2 Balsamiq
+#### 5.1.2 Balsamiq
 Balsamiq is a wireframe prototyping interface builder application designed to create mock-ups and wireframe prototypes to help map out the basic layout of a program or interface. The features included in Balsamiq allow for advanced designing of applications, such as iterations and versions, allowing for different variants of specific designs for feedback and improvements, and collaboration, to create wireframes with other users involved in the project. Cloud based prototyping is also involved, allowing for the user to access their wireframes anywhere[14].
 
-#### 5.3 Unreal Engine
+#### 5.1.3 Unreal Engine
 Unreal Engine is a game engine used for a variety of reasons, such as games, product design or virtual reality. Currently, the engine is on its fourth iteration and focusing on realistic or heavily detailed visuals. The engine can be used for developing prototypes and can allow the user to quickly develop them thanks to the tools that unreal has, such as its blueprints function, focused on prototyping and allows users to quickly create the layout of the program or game without ever having to code. Many other features help develop more photorealistic and cinematic looking visuals to give the program a creative visual flair[15].
+
+### 5.2 Tools to Develop the Project Prototype
+#### 5.2.1 Unity
+Unity will be the choice of developing the main prototypes for the ‘Road Rage’ project. As like Unreal, it is a game engine that allows for anyone to create games or renders, but there are differences between this and Unreal that affected the choice of game engine. Unreal and unity can replicate realistic looking graphics, but Unity felt less demanding in terms of specifications needed to run the engine. As development would be shared between the college computers and my personal laptop, the latter is far weaker than the college computers, meaning that there would be performance problems, so Unity was chosen as an alternative. Unity was also chosen because of prior knowledge with the engine, meaning that I can take advantage of the features in Unity.
+
+#### 5.2.2 Visual Studio
+Visual Studio is an IDE that allows people to code solutions and will be the IDE of choice when scripting the prototypes. Unity has an IDE implemented into it already called “MonoDevelop”, that has the C# language ready when booting up, but as compared to Visual Studio, it is quite basic. Visual Studio has multiple features within its IDE as well as support for many programming languages, which can aid the development of the code. Unity can incorporate Visual Studio as its primary IDE and would boot up when editing a script.
+The idea is that I would use Visual Studio to create the code and maybe debug the code if there are prominent bugs. The features included within Visual Studio would help out massively when coding the game; making switching out between scripts faster and offering solutions to erroneous code.
+
+#### 5.2.3 Blender
+In the preliminary stages of the prototypes, I will use predefined assets as placeholders to help with building the game and help with some visualisation. Once the prototypes get nearer into development, I will need to develop some of the assets.
+Blender, a 3D modelling tool, will allow me to create the necessary assets needed for implementation in the game. All development from cars and environments will take place here for a majority of reasons. Unity lacks the tools in terms of 3D modelling, with only shapes making up what the user can create, and although there is terrain modelling, it still lacks certain features which can be found in Blender and this can save a lot of time.
 
 ## 6. Prototype Feedback
 ### 6.1 Controller Demo
