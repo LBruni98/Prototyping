@@ -235,6 +235,34 @@ The title screen, which was planned to have a video and visual effects playing i
 |Dean   |The menus look nicer as the simple layout matches the original design and looks easier to navigate. It also shows the layout of upcoming dynamic effects that are planned to be used. I want to see this now applied to the other screens that the game will use, like the win screen and reward screen to see how they would look.|
 |Matthew|The clearer elements make for better understanding on what the look of the game achieves to be, with some elements that feature more dynamic or visual features altered to support them. The navigation on the menus look like they would be properly comprehended by all sorts of players, meaning that it would be easier to navigate from screen to screen. This should now have a design attached to show what this would look like if it were the final product.|
 
+### 6.3 Prototype from Feedback
+From the feedback given, the prototypes had positive views over the features that were planned to be included into the final game. They had functioned to a good standard and I felt ready to continue with the development of the prototypes.
+
+The feedback from the controller demo stated that there needed to be further improvement to showcase the controller’s features, incorporating buttons to the input and showcasing how they would work alongside the keyboard. Other feedback included that now, there needs to be further development to showcase what the feature would look like when properly implemented.
+
+From the interface wireframes, the user feedback praised the layout and how concise each menu element was including the HUD for the gameplay. This feedback was from the first iteration of the interfaces and so far, the layout was approved. The issues however, were that some of the menus had a bit of trouble with navigation and were bland as far as the layout went. The second iteration rectified the issues, making the navigation easier and adding a little more flair to the design. After gaining the feedback, I was ready to continue.
+
+Next, I needed to develop the main prototype based on the feedback of the users. I came up with developing a prototype where the user can drive a car around a track.
+
+![Game Demo](https://github.com/LBruni98/Road-Rage/blob/master/Development/Game%20Demo.PNG)
+
+The game utilises both the users’ feedback given from the controller prototype and has elements of the interface elements from the wireframes, but mainly as a way to see how they would’ve fit with the game. This prototype utilises the controller functions controller prototype, assigning the analogue control in both the controller triggers, acceleration, braking and reversing, and analogue sticks, the steering. It works alongside the keyboard and generally offers two input methods.
+
+The interface elements weren’t prominent as much in this prototype, as only the next set of features, such as car handling, and the controller input were the main focus. Only the speedometer was implemented as such to display the car’s speed and also to test how it looked with the gameplay.
+
+![Game Interface](https://github.com/LBruni98/Road-Rage/blob/master/Development/Road%20Rage%20Mockup.png)
+
+The design of one interface was made, the game’s HUD during a race. This was created to show how the game would look as well as its aesthetic feel. The interface was designed to be more eye-catching, as if the game was ‘arcadey’ in nature and took the elements from both the wireframes for its creation.
+
+## 7. Critical review and Comparison
+The development of the prototypes had been primarily a success and had offered a good learning experience in terms of how the prototypes should be handled and developed. The reason why I set out to create the game in question was because it was more refreshing in terms of the genre, setting out trends that haven’t been seen for a long time.
+
+When developing the prototypes, I chose to develop them with the methodology chosen as I thought that it gives the users an understanding of the features properly and with the additional feedback, was able to further refine the elements of each prototype until I was able to develop a version for a release. This in turn, made the requirements quicker and helped with development where the clear and concise feedback could be taken into account for each prototype.
+
+The final prototype and the ones before didn’t alter too far from the original test plan. The plan was to utilise evolutionary prototyping against use case behaviour modelling to help develop and test the prototypes. All of the prototypes and the iterations went through this methodology, starting with the wireframes, where once they were finished, the next prototypes were developed, these being the controller demo and then the actual driving prototype.
+
+Testing was done with Excel for recording results and was mainly done by the users in a black-box state, their feedback reflected on the features given inside the program and not the actual source code. It differentiated with the white-box testing, as I had carried out the majority during development as more noticeable bugs and errors had come up before the development was done, but the white-box testing still resumed where I used the results to find out the bugs and to see if each method met the requirements. 
+
 ### References
 1. Craig Borysowich (2011). Systems Design: Prototyping. [online]. Toolbox. Available from: <https://it.toolbox.com/blogs/craigborysowich/systems-design-prototyping-081811>. [Accessed 7 October 2018].
 2. Muthu Singaram, Prathistha Jain (2018). Types of Prototype and their Usage. [online]. Entrepreneur. Available from: <https://www.entrepreneur.com/article/308724>. [Accessed 7 October 2018].
@@ -252,15 +280,14 @@ The title screen, which was planned to have a video and visual effects playing i
 14. Daniel Giralt Len (2018). Contract Testing (I): E2E testing is SO last season. [online]. Medium. Available from: <https://medium.com/typeforms-engineering-blog/contract-testing-i-e2e-testing-is-so-last-season-1142fa63c740>. [Accessed 18 December 2018].
 15. ProfessionalQA (2018). Operational Acceptance Testing or Operational Testing. [online]. ProfessionalQA. Available from: <http://www.professionalqa.com/operational-testing>. [Accessed 18 December 2018].
 16. Helping Testers [online]. (2017). Available from: <http://www.helpingtesters.com/black-box-testing/>. [Accessed 18 December 2018].
-
-6. Javier Cuello (2016). How To Choose The Right Prototyping Tool. [online]. Smashing Magazine. Available from: <https://www.smashingmagazine.com/2016/09/choosing-the-right-prototyping-tool/>. [Accessed 7 October 2018].
-7. Philosophe [online]. (2009). Available from: <https://philosophe.com/understanding_users/categorizing_users/>. [Accessed 13 December 2018].
-8. Radek Silhavy, Petr Silhavy, Zdenka Prokopová (2011). Behavioral modeling in system engineering. Tomas Bata University in Zlin. Available from: <https://www.researchgate.net/publication/228401777_Behavioral_modeling_in_system_engineering>. [Accessed 14 December 2018].
-9. Techopedia [online]. (2011). Available from: <https://www.techopedia.com/definition/25813/use-case>. [Accessed 14 December 2018].
-10. Behavior Models [online]. (n.d). Available from: <https://gyires.inf.unideb.hu/GyBITT/07/ch03s04.html>. [Accessed 14 December 2018].
-11. Sherrell L. (2013) Evolutionary Prototyping. In: Runehov A.L.C., Oviedo L. (eds) Encyclopedia of Sciences and Religions. Springer, Dordrecht. Available from: <https://link.springer.com/referenceworkentry/10.1007/978-1-4020-8265-8_201039>. [Accessed 14 December 2018].
-12. Teach-ICT [online]. (2011). Available from: <http://www.teach-ict.com/as_a2_ict_new/ocr/A2_G063/331_systems_cycle/prototyping_RAD/miniweb/pg3.htm>. [Accessed 14 December 2018].
-13. UXPin [online]. (2010). Available from: <https://www.uxpin.com/prototyping>. [Accessed 14 December 2018].
-14. Balsamiq [online]. (2008). Available from: <https://balsamiq.com/>. [Accessed 15 December 2018].
-15. Unreal Engine [online]. (2017). Available from: <https://www.unrealengine.com/en-US/what-is-unreal-engine-4>. [Accessed 15 December 2018].
+17. Javier Cuello (2016). How To Choose The Right Prototyping Tool. [online]. Smashing Magazine. Available from: <https://www.smashingmagazine.com/2016/09/choosing-the-right-prototyping-tool/>. [Accessed 7 October 2018].
+18. Philosophe [online]. (2009). Available from: <https://philosophe.com/understanding_users/categorizing_users/>. [Accessed 13 December 2018].
+19. Radek Silhavy, Petr Silhavy, Zdenka Prokopová (2011). Behavioral modeling in system engineering. Tomas Bata University in Zlin. Available from: <https://www.researchgate.net/publication/228401777_Behavioral_modeling_in_system_engineering>. [Accessed 14 December 2018].
+20. Techopedia [online]. (2011). Available from: <https://www.techopedia.com/definition/25813/use-case>. [Accessed 14 December 2018].
+21. Behavior Models [online]. (n.d). Available from: <https://gyires.inf.unideb.hu/GyBITT/07/ch03s04.html>. [Accessed 14 December 2018].
+22. Sherrell L. (2013) Evolutionary Prototyping. In: Runehov A.L.C., Oviedo L. (eds) Encyclopedia of Sciences and Religions. Springer, Dordrecht. Available from: <https://link.springer.com/referenceworkentry/10.1007/978-1-4020-8265-8_201039>. [Accessed 14 December 2018].
+23. Teach-ICT [online]. (2011). Available from: <http://www.teach-ict.com/as_a2_ict_new/ocr/A2_G063/331_systems_cycle/prototyping_RAD/miniweb/pg3.htm>. [Accessed 14 December 2018].
+24. UXPin [online]. (2010). Available from: <https://www.uxpin.com/prototyping>. [Accessed 14 December 2018].
+25. Balsamiq [online]. (2008). Available from: <https://balsamiq.com/>. [Accessed 15 December 2018].
+26. Unreal Engine [online]. (2017). Available from: <https://www.unrealengine.com/en-US/what-is-unreal-engine-4>. [Accessed 15 December 2018].
 
